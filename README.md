@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 🌙 Bakti  
 ***Bridging Generosity to In-Need***
 
@@ -67,11 +67,27 @@ Bakti is a Shariah-compliant mobile app designed for the ethical and efficient m
 
 ##  🧠 **Technology Stack**
 
-- **React Native** – Cross-platform app development
-- **Firebase** – Authentication and database
-- **Haqq Network** – Shariah-compliant blockchain ledger
-- **Payment Gateway** – Facilitates secure and fast transactions
-- **Gemini LLM** – Smart AI assistant to assist user queries
+- #### 🖼 React Native  
+Used as the primary framework for building and deploying the mobile app across both Android and iOS platforms, offering a seamless and responsive user experience.
+
+- #### 🔐 Firebase  
+Provides user authentication and authorization, while also storing structured data such as donation records, application forms, and chatbot interactions.
+
+- #### 💳 Payment Gateway  
+Enables users to make secure payments via debit/credit card, Islamic e-wallets, and online banking, supporting fast and Shariah-compliant transactions.
+
+- #### ⛓️ Haqq Network (Blockchain)  
+Facilitates transparent and immutable records of donations. Every contribution to Waqf or Sadaqah results in an NFT being minted, storing the donation metadata securely on-chain.
+
+- #### 🧾 NFT Minting System  
+Smart contracts automatically mint NFTs when a donation is made. These NFTs include metadata like donor ID, campaign ID, amount, and timestamp—promoting accountability and traceability.
+
+- #### 🤖 Gemini LLM (Large Language Model)  
+Powers the in-app chatbot assistant that answers user queries, provides guidance, and supports onboarding in a conversational, intelligent manner.
+
+- #### 🔁 RAG (Retrieval-Augmented Generation) Assistant  
+Combines user history with static knowledge (e.g., FAQs and campaign details) from Firestore to produce accurate, real-time responses within the app’s AI assistant.
+
 
 ---
 
