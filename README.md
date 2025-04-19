@@ -39,7 +39,8 @@ Step 3 - Scan the QR code.
 ---
 
 ##  🎨 Prototype  
-* [Figma Prototype](https://www.figma.com/proto/gnxJRQH1N6Ru2o62wsNiZ9/Nakama-Devs---Bakti?node-id=203-4&t=kZykYAAoIq4m5Lty-1)   
+* [Figma Prototype](https://www.figma.com/proto/gnxJRQH1N6Ru2o62wsNiZ9/Nakama-Devs---Bakti?node-id=203-4&t=kZykYAAoIq4m5Lty-1)
+* [Canva Slide](https://www.canva.com/design/DAGlAoIc7Ss/fLiYuqEx-e2kbAKPVAEcMQ/edit)/
 
 ---
 
