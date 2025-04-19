@@ -7,8 +7,30 @@ Bakti is a Shariah-compliant mobile application designed to streamline donations
 ---
 
 ##  📥 Get Started with Bakti  
-*Coming Soon*  
-Setup instructions, demo, and installation guide will be provided in the next update.
+
+This guide will walk you through setting up the Bakti app on your machine using Expo Go.
+
+##  Scan QR Code (Option 1 - Fastest Way + Recommended)
+
+Download the Expo Go app from the App Store. Scan the QR code below directly using the Expo Go app (iOS). For Android, open the Expo Go app, go to Settings, allow all required permissions, and then scan the QR code using your device's native camera app.
+
+***ada nak kena tambah***
+
+##  Clone the Repository (Option 2)
+
+First, you need to clone the project to your local machine. Open a terminal (Command Prompt, PowerShell, or Terminal on macOS/Linux) and run the following command:
+
+***ada nak kena tambah***
+
+## Run the App
+
+Step 1 - Download the Expo Go app from the App Store. Make sure your computer and device are on the same local network. Scan the QR code provided in the terminal and boom--you can preview the app!
+
+Step 2 - Press s in the terminal to switch from developer build to Expo Go.
+
+Step 3 - Scan the QR code.
+
+Step 4 - The links will redirect to the browser and press the Expo Go button.
 
 ---
 
@@ -69,6 +91,8 @@ Bakti is a Shariah-compliant mobile app designed for the ethical and efficient m
 
 Bakti leverages a secure and scalable technology stack, combining blockchain, cloud services, and AI to deliver a transparent and Shariah-compliant charity platform. The architecture is designed to ensure seamless user experience, real-time donation tracking, and equitable fund distribution for both donors and recipients.
 
+## Technologies Used:
+
 - #### 🖼 React Native  
 Used as the primary framework for building and deploying the mobile app across both Android and iOS platforms, offering a seamless and responsive user experience.
 
@@ -78,7 +102,7 @@ Provides user authentication and authorization, while also storing structured da
 - #### 💳 Payment Gateway  
 Enables users to make secure payments via debit/credit card, Islamic e-wallets, and online banking, supporting fast and Shariah-compliant transactions.
 
-- #### ⛓️ Haqq Network (Blockchain)  
+- #### ⛓️ HAQQ Network (Blockchain)  
 Facilitates transparent and immutable records of donations. Every contribution to Waqf or Sadaqah results in an NFT being minted, storing the donation metadata securely on-chain.
 
 - #### 🧾 NFT Minting System  
