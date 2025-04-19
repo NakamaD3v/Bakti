@@ -10,7 +10,7 @@ export default function HomeScreen() {
     <ScrollView style={styles.container} contentContainerStyle={{ flexGrow: 1 }}>
       {/* Header */}
       <View style={styles.header}>
-      <View style={{backgroundColor: 'rgba(255, 255, 255, 0.45)',marginBottom: 20, borderRadius: 15}}><Image source={require('@/assets/images/bakti-logo-b.png')}
+      <View style={{backgroundColor: 'rgba(255, 255, 255, 0.45)',marginBottom: 20, borderRadius: 15}}><Image source={require('../assets/images/bakti-logo-b.png')}
       style= {{width: 80, height: 80, alignSelf: 'center', marginTop: 10, marginBottom: 15,}}/></View>
         <TouchableOpacity style={styles.searchWrapper}>
           <Ionicons name="menu" size={30} color="#fff" style={{ marginRight: 10 }} onPress={()=>router.push('/menu')}/>
