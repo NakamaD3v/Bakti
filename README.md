@@ -20,7 +20,12 @@ Download the Expo Go app from the App Store. Scan the QR code below directly usi
 
 First, you need to clone the project to your local machine. Open a terminal (Command Prompt, PowerShell, or Terminal on macOS/Linux) and run the following command:
 
-***ada nak kena tambah***
+```
+git clone https://github.com/NakamaD3v/Bakti.git
+cd Bakti
+npm install
+npx expo start
+```
 
 ## Run the App
 
