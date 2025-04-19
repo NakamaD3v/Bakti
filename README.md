@@ -14,8 +14,7 @@ This guide will walk you through setting up the Bakti app on your machine using 
 
 Download the Expo Go app from the App Store. Scan the QR code below directly using the Expo Go app (iOS). For Android, open the Expo Go app, go to Settings, allow all required permissions, and then scan the QR code using your device's native camera app.
 
-![WhatsApp Image 2025-04-20 at 12 34 12 AM](https://github.com/user-attachments/assets/3783c21a-ff3b-4a4f-abbe-3d17e5ed8b53)![Uploading WhatsApp Image 2025-04-20 at 12.34.12 AM.jpeg…]()
-
+![WhatsApp Image 2025-04-20 at 12 34 12 AM](https://github.com/user-attachments/assets/3783c21a-ff3b-4a4f-abbe-3d17e5ed8b53)
 
 ##  Clone the Repository (Option 2)
 
