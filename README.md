@@ -32,11 +32,9 @@ npx expo start
 
 Step 1 - Download the Expo Go app from the App Store. Make sure your computer and device are on the same local network. Scan the QR code provided in the terminal and boom--you can preview the app!
 
-Step 2 - Press s in the terminal to switch from developer build to Expo Go.
+Step 2 - If it is stated that you're using development build, press 's' in the terminal to switch to Expo Go.
 
 Step 3 - Scan the QR code.
-
-Step 4 - The links will redirect to the browser and press the Expo Go button.
 
 ---
 
