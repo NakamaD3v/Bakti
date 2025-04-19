@@ -24,6 +24,7 @@ First, you need to clone the project to your local machine. Open a terminal (Com
 git clone https://github.com/NakamaD3v/Bakti.git
 cd Bakti
 npm install
+npx expo install react-native-paper
 npx expo start
 ```
 
