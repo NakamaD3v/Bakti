@@ -93,6 +93,9 @@ Bakti is a Shariah-compliant mobile app designed for the ethical and efficient m
 
 ##  🧠 **Technology Stack**
 
+![image](https://github.com/user-attachments/assets/1dc996f1-8912-4278-b008-37c90d89f2bb)
+
+
 Bakti leverages a secure and scalable technology stack, combining blockchain, cloud services, and AI to deliver a transparent and Shariah-compliant charity platform. The architecture is designed to ensure seamless user experience, real-time donation tracking, and equitable fund distribution for both donors and recipients.
 
 ## Technologies Used:
