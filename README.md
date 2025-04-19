@@ -40,7 +40,8 @@ Step 3 - Scan the QR code.
 
 ##  🎨 Prototype  
 * [Figma Prototype](https://www.figma.com/proto/gnxJRQH1N6Ru2o62wsNiZ9/Nakama-Devs---Bakti?node-id=203-4&t=kZykYAAoIq4m5Lty-1)
-* [Canva Slide](https://www.canva.com/design/DAGlAoIc7Ss/fLiYuqEx-e2kbAKPVAEcMQ/edit)
+* [Canva Slide](https://www.canva.com/design/DAGlAoIc7Ss/fLiYuqEx-e2kbAKPVAEcMQ/edit)/[BAKTI Finalist Deck  (1).pdf](https://github.com/user-attachments/files/19823188/BAKTI.Finalist.Deck.1.pdf)
+
 
 ---
 
